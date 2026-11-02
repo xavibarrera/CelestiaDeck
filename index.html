@@ -17,10 +17,10 @@
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
 
-    <!-- PWA Icons & Manifest -->
-    <link rel="manifest" href="/manifest.json" />
-    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
-    <link rel="apple-touch-icon" href="/icon-192.png" />
+    <!-- PWA Icons & Manifest (Relative paths for GitHub Pages subpath compatibility) -->
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="icon" type="image/svg+xml" href="./icon.svg" />
+    <link rel="apple-touch-icon" href="./icon-192.png" />
     
     <!-- Google Fonts for Cosmic / Mystic Elegance -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -29,17 +29,17 @@
   </head>
   <body class="bg-slate-950 text-slate-100 selection:bg-amber-400 selection:text-slate-950 antialiased overflow-x-hidden min-h-screen">
     <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
+    <script type="module" src="./src/main.tsx"></script>
     <script>
-      // Service worker registration for PWA
+      // Service worker registration with relative path support for GitHub Pages
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/sw.js').then(
+          navigator.serviceWorker.register('./sw.js').then(
             (reg) => {
               console.log('CelestiaDeck ServiceWorker registered:', reg.scope);
             },
             (err) => {
-              console.log('CelestiaDeck ServiceWorker registration failed:', err);
+              console.log('CelestiaDeck ServiceWorker registration note:', err);
             }
           );
         });
