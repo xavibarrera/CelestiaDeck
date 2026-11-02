@@ -1,0 +1,2130 @@
+[
+  {
+    "id": 0,
+    "name": "El Loco",
+    "nameEn": "The Fool",
+    "arcana": "major",
+    "number": 0,
+    "romanNumeral": "0",
+    "keywords": [
+      "Nuevos comienzos",
+      "Espontaneidad",
+      "Inocencia",
+      "Confianza"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Urano",
+    "iconName": "Compass",
+    "upright": {
+      "general": "Momento de dar un salto de fe guiado por la curiosidad y la pureza de intención.",
+      "love": "Apertura a nuevas conexiones sin el peso de patrones del pasado.",
+      "work": "Iniciativas frescas, proyectos innovadores y valentía para explorar nuevos caminos.",
+      "advice": "Permítete ser principiante sin la exigencia de saberlo todo desde el inicio."
+    },
+    "reversed": {
+      "general": "Dudas o impulsividad no meditada. Necesidad de aterrizar los impulsos con serenidad.",
+      "advice": "Tómate una pausa para verificar que tus pasos nacen de la inspiración y no de la prisa por escapar."
+    },
+    "reflectionQuestion": "¿Qué paso valiente darías hoy si supieras que la experiencia en sí misma es el mayor regalo?"
+  },
+  {
+    "id": 1,
+    "name": "El Mago",
+    "nameEn": "The Magician",
+    "arcana": "major",
+    "number": 1,
+    "romanNumeral": "I",
+    "keywords": [
+      "Manifestación",
+      "Recursos internos",
+      "Enfoque",
+      "Poder creador"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Mercurio",
+    "iconName": "Wand2",
+    "upright": {
+      "general": "Cuentas con todas las herramientas necesarias para materializar tu visión.",
+      "love": "Comunicación clara, magnetismo y capacidad para alinear afecto y verdad.",
+      "work": "Capacidad resolutiva, elocuencia y dominio técnico para sacar adelante tus ideas.",
+      "advice": "Concentra tu energía en una sola prioridad a la vez para ver florecer tus dones."
+    },
+    "reversed": {
+      "general": "Dispersión de talento o sensación de no estar aprovechando todo tu potencial.",
+      "advice": "Revisa qué recursos ya posees antes de buscar validación o herramientas externas."
+    },
+    "reflectionQuestion": "¿Cuál de tus habilidades naturales estás subestimando en este momento?"
+  },
+  {
+    "id": 2,
+    "name": "La Sacerdotisa",
+    "nameEn": "The High Priestess",
+    "arcana": "major",
+    "number": 2,
+    "romanNumeral": "II",
+    "keywords": [
+      "Intuición",
+      "Mundo interior",
+      "Sabiduría oculta",
+      "Serenidad"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Luna",
+    "iconName": "Moon",
+    "upright": {
+      "general": "Tu brújula interna habla con claridad cuando silencias el ruido exterior.",
+      "love": "Conexión profunda y comprensión mutua sin necesidad de sobreexplicarse.",
+      "work": "Observa la dinámica antes de actuar; la paciencia estratégica revelará la mejor opción.",
+      "advice": "Dedica tiempo al silencio, el descanso consciente y la escucha de tus corazonadas."
+    },
+    "reversed": {
+      "general": "Desconexión de tu intuición por sobreanálisis racional o influencias ajenas.",
+      "advice": "Vuelve a tu centro con respiración consciente y confía en lo que sientes en tu cuerpo."
+    },
+    "reflectionQuestion": "¿Qué verdad interna ya conoces pero aún dudas en reconocer?"
+  },
+  {
+    "id": 3,
+    "name": "La Emperatriz",
+    "nameEn": "The Empress",
+    "arcana": "major",
+    "number": 3,
+    "romanNumeral": "III",
+    "keywords": [
+      "Nutrición",
+      "Creatividad",
+      "Abundancia",
+      "Amor propio"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Venus",
+    "iconName": "Sparkles",
+    "upright": {
+      "general": "Época fértil para crear, embellecer tu entorno y tratarte con profunda amabilidad.",
+      "love": "Calidez, ternura y vínculos donde el cuidado mutuo florece con generosidad.",
+      "work": "Ideas que maduran con éxito; ambiente propicio para cultivar proyectos sostenibles.",
+      "advice": "Honra tus sentidos: aliméntate bien, rodéate de naturaleza y celebra tu cuerpo."
+    },
+    "reversed": {
+      "general": "Desgaste por cuidar a los demás olvidándote de tus propias necesidades.",
+      "advice": "Restaura tus reservas energéticas antes de seguir entregando a tu entorno."
+    },
+    "reflectionQuestion": "¿De qué forma concreta puedes nutrirte hoy como tu propia prioridad?"
+  },
+  {
+    "id": 4,
+    "name": "El Emperador",
+    "nameEn": "The Emperor",
+    "arcana": "major",
+    "number": 4,
+    "romanNumeral": "IV",
+    "keywords": [
+      "Estructura",
+      "Límites saludables",
+      "Estabilidad",
+      "Liderazgo"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Aries",
+    "iconName": "Shield",
+    "upright": {
+      "general": "Capacidad para poner orden con templanza y construir bases firmes a largo plazo.",
+      "love": "Seguridad, compromiso y acuerdos claros que brindan tranquilidad al corazón.",
+      "work": "Organización metódica, disciplina serena y claridad en la toma de decisiones.",
+      "advice": "Establece límites amables pero firmes para proteger tu tiempo y tu paz."
+    },
+    "reversed": {
+      "general": "Rigidez mental o exceso de control que genera tensión innecesaria.",
+      "advice": "Aprende a delegar y recuerda que la verdadera fuerza sabe adaptarse al cambio."
+    },
+    "reflectionQuestion": "¿Qué límite protector te brindaría mayor serenidad en tu día a día?"
+  },
+  {
+    "id": 5,
+    "name": "El Sumo Sacerdote",
+    "nameEn": "The Hierophant",
+    "arcana": "major",
+    "number": 5,
+    "romanNumeral": "V",
+    "keywords": [
+      "Valores",
+      "Tradición viva",
+      "Mentores",
+      "Conocimiento"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Tauro",
+    "iconName": "BookOpen",
+    "upright": {
+      "general": "Búsqueda de significado, aprendizaje de quienes han caminado antes y coherencia ética.",
+      "love": "Valores compartidos y construcción de un proyecto vital con cimientos éticos.",
+      "work": "Formación continua, trabajo en equipo guiado por principios sólidos.",
+      "advice": "Conecta con tus principios fundamentales para tomar decisiones sin vacilar."
+    },
+    "reversed": {
+      "general": "Cuestionamiento de normas rígidas que ya no resuenan con tu evolución.",
+      "advice": "Encuentra tu propia filosofía de vida manteniendo el respeto por tu proceso."
+    },
+    "reflectionQuestion": "¿Qué valor esencial guía tus elecciones cuando las cosas se complican?"
+  },
+  {
+    "id": 6,
+    "name": "Los Enamorados",
+    "nameEn": "The Lovers",
+    "arcana": "major",
+    "number": 6,
+    "romanNumeral": "VI",
+    "keywords": [
+      "Alineación",
+      "Elección consciente",
+      "Armonía",
+      "Vínculo"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Géminis",
+    "iconName": "Heart",
+    "upright": {
+      "general": "Integración de polaridades internas y elecciones tomadas desde el corazón auténtico.",
+      "love": "Afinidad profunda, complicidad y apertura honesta hacia el otro.",
+      "work": "Alianzas fluidas y decisiones profesionales basadas en tus pasiones genuinas.",
+      "advice": "Elige siempre aquello que te acerque más a la versión íntegra de ti mismo."
+    },
+    "reversed": {
+      "general": "Dilema interno o discrepancia entre lo que deseas y lo que crees deber hacer.",
+      "advice": "Aclara tus prioridades antes de comprometerte para evitar autoengaños."
+    },
+    "reflectionQuestion": "¿Qué decisión actual te pide elegir desde el amor en lugar de desde el miedo?"
+  },
+  {
+    "id": 7,
+    "name": "El Carro",
+    "nameEn": "The Chariot",
+    "arcana": "major",
+    "number": 7,
+    "romanNumeral": "VII",
+    "keywords": [
+      "Determinación",
+      "Autodominio",
+      "Progreso",
+      "Victoria interior"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Cáncer",
+    "iconName": "Milestone",
+    "upright": {
+      "general": "Avance decidido superando contradicciones internas gracias a tu voluntad centrada.",
+      "love": "Superación conjunta de obstáculos con honestidad y dirección compartida.",
+      "work": "Impulso profesional imparable; tus esfuerzos constantes comienzan a dar frutos.",
+      "advice": "Mantén la mirada en tu objetivo sin permitir que las dudas pasajeras te desvíen."
+    },
+    "reversed": {
+      "general": "Sensación de pérdida de control o sobreesfuerzo que agota tu vitalidad.",
+      "advice": "Reajusta la velocidad: a veces desacelerar es la forma más rápida de no descarrilar."
+    },
+    "reflectionQuestion": "¿Hacia dónde estás orientando tu energía principal en esta etapa?"
+  },
+  {
+    "id": 8,
+    "name": "La Fuerza",
+    "nameEn": "Strength",
+    "arcana": "major",
+    "number": 8,
+    "romanNumeral": "VIII",
+    "keywords": [
+      "Compasión",
+      "Paciencia",
+      "Valentía suave",
+      "Aceptación"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Leo",
+    "iconName": "SunMedium",
+    "upright": {
+      "general": "La verdadera fuerza no impone ni domina: acoge con ternura las emociones intensas.",
+      "love": "Empatía y calidez que desarman cualquier defensiva en tus relaciones.",
+      "work": "Resiliencia ante la frustración; superas retos con serenidad y diplomacia.",
+      "advice": "Trata a tus partes más vulnerables con la misma gentileza que tendrías con un amigo."
+    },
+    "reversed": {
+      "general": "Dudas sobre tu propia capacidad o dureza autocrítica innecesaria.",
+      "advice": "Sustituye la autoexigencia por la autocompasión; eres más fuerte de lo que crees."
+    },
+    "reflectionQuestion": "¿Cómo puedes ser hoy más paciente y comprensivo contigo mismo?"
+  },
+  {
+    "id": 9,
+    "name": "El Ermitaño",
+    "nameEn": "The Hermit",
+    "arcana": "major",
+    "number": 9,
+    "romanNumeral": "IX",
+    "keywords": [
+      "Introspección",
+      "Luz interior",
+      "Pausa reflexiva",
+      "Autenticidad"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Virgo",
+    "iconName": "Lantern",
+    "upright": {
+      "general": "Retiro consciente para ordenar tus pensamientos y reencontrarte con tu sabiduría.",
+      "love": "Necesidad de espacio personal para comprender tus deseos antes de compartirlos.",
+      "work": "Investigación solitaria, análisis reflexivo y trabajo enfocado de alta calidad.",
+      "advice": "Valora tus momentos a solas; en el silencio se gestan las respuestas más lúcidas."
+    },
+    "reversed": {
+      "general": "Aislamiento excesivo o resistencia a recibir apoyo cuando lo necesitas.",
+      "advice": "Comparte tu luz; reflexionar en soledad es valioso, pero no te cierres al mundo."
+    },
+    "reflectionQuestion": "¿Qué respuesta estás buscando afuera que solo encontrarás en tu calma interior?"
+  },
+  {
+    "id": 10,
+    "name": "La Rueda de la Fortuna",
+    "nameEn": "Wheel of Fortune",
+    "arcana": "major",
+    "number": 10,
+    "romanNumeral": "X",
+    "keywords": [
+      "Ciclos",
+      "Cambio evolutivo",
+      "Oportunidad",
+      "Fluidez"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Júpiter",
+    "iconName": "RefreshCw",
+    "upright": {
+      "general": "La vida se mueve en espirales naturales; se avecina un cambio favorable si abrazas el flujo.",
+      "love": "Giro positivo en la dinámica vincular; sincronicidades y encuentros oportunos.",
+      "work": "Nuevas circunstancias que abren puertas que antes parecían cerradas.",
+      "advice": "Acepta lo que no puedes controlar y concéntrate en responder con optimismo y madurez."
+    },
+    "reversed": {
+      "general": "Resistencia a un cambio natural que genera sensación de estancamiento.",
+      "advice": "Recuerda que cada fase tiene un propósito formativo; confía en el ritmo del proceso."
+    },
+    "reflectionQuestion": "¿Qué ciclo en tu vida está listo para cerrarse o renovarse?"
+  },
+  {
+    "id": 11,
+    "name": "La Justicia",
+    "nameEn": "Justice",
+    "arcana": "major",
+    "number": 11,
+    "romanNumeral": "XI",
+    "keywords": [
+      "Verdad",
+      "Equilibrio",
+      "Causa y efecto",
+      "Integridad"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Libra",
+    "iconName": "Scale",
+    "upright": {
+      "general": "Claridad mental para sopesar opciones con objetividad, honestidad y equidad.",
+      "love": "Transparencia, reciprocidad y resolución de desacuerdos con respeto.",
+      "work": "Contratos justos, reconocimiento del mérito y decisiones bien fundamentadas.",
+      "advice": "Actúa con impecabilidad en tus acuerdos; la verdad siempre simplifica el camino."
+    },
+    "reversed": {
+      "general": "Percepción de injusticia o tendencia a juzgarte con excesiva severidad.",
+      "advice": "Evalúa la situación con objetividad y busca el equilibrio interno sin rencores."
+    },
+    "reflectionQuestion": "¿En qué área de tu vida necesitas restablecer un trato más justo y honesto?"
+  },
+  {
+    "id": 12,
+    "name": "El Colgado",
+    "nameEn": "The Hanged Man",
+    "arcana": "major",
+    "number": 12,
+    "romanNumeral": "XII",
+    "keywords": [
+      "Nueva perspectiva",
+      "Soltar el control",
+      "Pausa fértil",
+      "Rendición"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Neptuno",
+    "iconName": "Eye",
+    "upright": {
+      "general": "Ver las cosas desde un ángulo diferente transforma los problemas en aprendizajes.",
+      "love": "Paciencia y comprensión; soltar la necesidad de que el otro cambie en tus tiempos.",
+      "work": "Pausa productiva; a veces no hacer nada permite que la solución se revele sola.",
+      "advice": "Suelta la lucha con la realidad; en la rendición consciente nace la verdadera paz."
+    },
+    "reversed": {
+      "general": "Postergación innecesaria o resistencia a aceptar que se requiere un cambio de enfoque.",
+      "advice": "Pregúntate qué ganas manteniendo una postura que ya ha demostrado no funcionar."
+    },
+    "reflectionQuestion": "Si miraras tu situación actual con los ojos del agradecimiento, ¿qué verías?"
+  },
+  {
+    "id": 13,
+    "name": "La Transformación",
+    "nameEn": "Death / Transformation",
+    "arcana": "major",
+    "number": 13,
+    "romanNumeral": "XIII",
+    "keywords": [
+      "Renovación",
+      "Cierre de ciclo",
+      "Metamorfosis",
+      "Espacio nuevo"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Escorpio",
+    "iconName": "Feather",
+    "upright": {
+      "general": "El otoño de una etapa da paso a una primavera más luminosa y auténtica.",
+      "love": "Transformación profunda de dinámicas desgastadas para permitir un vínculo más maduro.",
+      "work": "Conclusión natural de un proyecto o rol que ya cumplió su misión educativa.",
+      "advice": "Despídete con gratitud de lo que ya fue; estás dejando espacio para lo que mereces."
+    },
+    "reversed": {
+      "general": "Apego a lo familiar por miedo a la incertidumbre del cambio.",
+      "advice": "Recuerda que aferrarse a hojas secas no impide que el árbol siga creciendo."
+    },
+    "reflectionQuestion": "¿Qué creencia o hábito antiguo estás listo para liberar con amor?"
+  },
+  {
+    "id": 14,
+    "name": "La Templanza",
+    "nameEn": "Temperance",
+    "arcana": "major",
+    "number": 14,
+    "romanNumeral": "XIV",
+    "keywords": [
+      "Alquimia",
+      "Moderación",
+      "Paz interior",
+      "Armonización"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Sagitario",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Mezcla armoniosa de contrarios; sanación gradual a través del equilibrio constante.",
+      "love": "Diálogo conciliador, ternura cotidiana y complementariedad enriquecedora.",
+      "work": "Ritmo sostenible que evita el agotamiento; integración de talento diverso.",
+      "advice": "Busca el término medio; la moderación y la calma son tu mejor medicina."
+    },
+    "reversed": {
+      "general": "Extremos emocionales o excesos que desestabilizan tu bienestar integral.",
+      "advice": "Vuelve a los hábitos simples de descanso, hidratación y sosiego."
+    },
+    "reflectionQuestion": "¿Qué dos aspectos de tu vida necesitan hoy encontrarse en un punto medio?"
+  },
+  {
+    "id": 15,
+    "name": "La Sombra",
+    "nameEn": "The Devil / The Shadow",
+    "arcana": "major",
+    "number": 15,
+    "romanNumeral": "XV",
+    "keywords": [
+      "Consciencia de sombra",
+      "Apegos",
+      "Liberación",
+      "Honestidad radical"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Capricornio",
+    "iconName": "Key",
+    "upright": {
+      "general": "Reconocer tus dependencias y miedos ocultos es el primer paso para desarticularlos.",
+      "love": "Observa si hay dinámicas de apego ansioso o necesidad de validación externa.",
+      "work": "Atención a la autoexigencia obsesiva o al miedo al fracaso que paraliza.",
+      "advice": "Mira tu sombra sin culpa: lo que se ilumina con honestidad pierde su poder sobre ti."
+    },
+    "reversed": {
+      "general": "Ruptura de viejas cadenas; toma de consciencia liberadora sobre tus verdaderos deseos.",
+      "advice": "Celebra cada paso hacia tu autonomía y perdónate por errores del pasado."
+    },
+    "reflectionQuestion": "¿A qué pensamiento o hábito le estás entregando tu poder personal?"
+  },
+  {
+    "id": 16,
+    "name": "El Despertar",
+    "nameEn": "The Tower / Awakening",
+    "arcana": "major",
+    "number": 16,
+    "romanNumeral": "XVI",
+    "keywords": [
+      "Revelación",
+      "Liberación súbita",
+      "Verdad deslumbrante",
+      "Reinicio"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Marte",
+    "iconName": "Zap",
+    "upright": {
+      "general": "Derrumbe de ilusiones que permite ver la realidad tal como es, liberándote de ataduras.",
+      "love": "Una conversación clarificadora elimina suposiciones y deja ver la verdad del vínculo.",
+      "work": "Un cambio inesperado resulta ser la oportunidad perfecta para redefinir tu rumbo.",
+      "advice": "No temas al cambio repentino: solo cae aquello construido sobre cimientos falsos."
+    },
+    "reversed": {
+      "general": "Intento de sostener estructuras obsoletas por temor a la reconstrucción.",
+      "advice": "Acepta el desenlace natural; cuanto antes sueltes, antes florecerá lo nuevo."
+    },
+    "reflectionQuestion": "¿Qué verdad incómoda pero liberadora está lista para ser asumida?"
+  },
+  {
+    "id": 17,
+    "name": "La Estrella",
+    "nameEn": "The Star",
+    "arcana": "major",
+    "number": 17,
+    "romanNumeral": "XVII",
+    "keywords": [
+      "Esperanza",
+      "Sanación",
+      "Inspiración",
+      "Propósito"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Acuario",
+    "iconName": "Sparkle",
+    "upright": {
+      "general": "Claridad celestial, optimismo sereno y confianza renovada en el porvenir.",
+      "love": "Generosidad emocional, autenticidad y fe compartida en un futuro luminoso.",
+      "work": "Inspiración artística o profesional; tus talentos se alinean con tu propósito.",
+      "advice": "Comparte tu vulnerabilidad con el mundo; tu autenticidad inspira a otros."
+    },
+    "reversed": {
+      "general": "Pesimismo pasajero o desconexión de tus sueños más queridos.",
+      "advice": "Recuerda momentos en que todo parecía difícil y lograste salir adelante."
+    },
+    "reflectionQuestion": "¿Qué sueño olvidado merece hoy un rayo de tu atención y esperanza?"
+  },
+  {
+    "id": 18,
+    "name": "La Luna",
+    "nameEn": "The Moon",
+    "arcana": "major",
+    "number": 18,
+    "romanNumeral": "XVIII",
+    "keywords": [
+      "Inconsciente",
+      "Imaginación",
+      "Sensibilidad",
+      "Misterio"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Piscis",
+    "iconName": "MoonStar",
+    "upright": {
+      "general": "Territorio de sueños, emociones profundas e intuiciones sutiles que piden ser sentidas.",
+      "love": "Momento de cuidar las interpretaciones erróneas y comunicarse sin proyectar miedos.",
+      "work": "Creatividad desbordante; excelente para arte, psicología e investigación introspectiva.",
+      "advice": "No tomes decisiones drásticas bajo la niebla emocional; espera a que salga el sol."
+    },
+    "reversed": {
+      "general": "Dispersión de dudas y superación de temores que antes parecían gigantes.",
+      "advice": "Distingue entre tus temores imaginados y los hechos tangibles del presente."
+    },
+    "reflectionQuestion": "¿Qué emoción oculta necesita hoy tu validación sin juicios?"
+  },
+  {
+    "id": 19,
+    "name": "El Sol",
+    "nameEn": "The Sun",
+    "arcana": "major",
+    "number": 19,
+    "romanNumeral": "XIX",
+    "keywords": [
+      "Alegría",
+      "Claridad",
+      "Vitalidad",
+      "Éxito radiante"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Sol",
+    "iconName": "Sun",
+    "upright": {
+      "general": "Luz radiante, calidez en el corazón y celebración de la vida en su plenitud sencilla.",
+      "love": "Transparencia, afecto generoso, complicidad y dicha compartida.",
+      "work": "Reconocimiento claro, proyectos prósperos y energía desbordante para crear.",
+      "advice": "Disfruta el momento presente con gratitud sincera; comparte tu entusiasmo."
+    },
+    "reversed": {
+      "general": "Dificultad temporal para apreciar tus propios logros o cansancio pasajero.",
+      "advice": "Sal al aire libre, busca la luz solar y reconecta con actividades lúdicas sencillas."
+    },
+    "reflectionQuestion": "¿Por qué motivos concretos puedes felicitarte hoy con orgullo y alegría?"
+  },
+  {
+    "id": 20,
+    "name": "El Juicio",
+    "nameEn": "Judgement",
+    "arcana": "major",
+    "number": 20,
+    "romanNumeral": "XX",
+    "keywords": [
+      "Llamado interior",
+      "Despertar",
+      "Perdón",
+      "Renacimiento"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Plutón",
+    "iconName": "Bell",
+    "upright": {
+      "general": "Llamado a elevarte sobre antiguos errores, perdonar el pasado y renacer con lucidez.",
+      "love": "Superación de viejos rencores; comprensión madura que renueva el vínculo.",
+      "work": "Vocación que se hace evidente; momento de responder a tu auténtico propósito.",
+      "advice": "Perdónate con generosidad; cada paso anterior fue necesario para llegar aquí."
+    },
+    "reversed": {
+      "general": "Autojuicio implacable o demora en responder a lo que sabes que debes hacer.",
+      "advice": "Silencia el crítico interior y concédete una nueva oportunidad de comenzar."
+    },
+    "reflectionQuestion": "¿Qué parte de tu historia estás listo para perdonar y soltar definitivamente?"
+  },
+  {
+    "id": 21,
+    "name": "El Mundo",
+    "nameEn": "The World",
+    "arcana": "major",
+    "number": 21,
+    "romanNumeral": "XXI",
+    "keywords": [
+      "Plenitud",
+      "Integración",
+      "Culminación",
+      "Celebración holística"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Saturno",
+    "iconName": "Globe",
+    "upright": {
+      "general": "Cierre de ciclo magistral; todas las piezas encajan y sientes armonía con el universo.",
+      "love": "Madurez emocional, plenitud compartida y sensación de hogar interior.",
+      "work": "Metas alcanzadas con éxito; sensación de dominio y reconocimiento consolidado.",
+      "advice": "Celebra tu recorrido vital; contempla lo lejos que has llegado con admiración."
+    },
+    "reversed": {
+      "general": "Detalles finales pendientes que impiden saborear el éxito completado.",
+      "advice": "Asegúrate de atar los últimos cabos para cerrar el ciclo con serenidad total."
+    },
+    "reflectionQuestion": "¿Qué gran aprendizaje de tu camino merece hoy una celebración íntima?"
+  },
+  {
+    "id": 22,
+    "name": "As de Copas",
+    "nameEn": "As of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 1,
+    "keywords": [
+      "Semilla",
+      "Potencial puro",
+      "Nuevo inicio"
+    ],
+    "element": "Agua",
+    "astrologyRef": "As (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Surge una chispa inicial llena de posibilidades vírgenes. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Da el primer paso sin esperar tener todas las respuestas resueltas.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Da el primer paso sin esperar tener todas las respuestas resueltas."
+    },
+    "reversed": {
+      "general": "El impulso existe pero necesita un canal más claro para no dispersarse. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Clarifica tus motivaciones antes de actuar con precipitación."
+    },
+    "reflectionQuestion": "¿Qué nueva oportunidad en esta área de tu vida está esperando tu sí?"
+  },
+  {
+    "id": 23,
+    "name": "Dos de Copas",
+    "nameEn": "Dos of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 2,
+    "keywords": [
+      "Dualidad",
+      "Equilibrio",
+      "Elección"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Dos (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Momento de armonizar dos polos o sopesar una decisión constructiva. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Encuentra el punto medio donde ambas opciones puedan coexistir.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Encuentra el punto medio donde ambas opciones puedan coexistir."
+    },
+    "reversed": {
+      "general": "Tensión entre dos alternativas que resta energía a tu día a día. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Prioriza lo que te traiga paz mental a largo plazo."
+    },
+    "reflectionQuestion": "¿Qué equilibrio necesitas restablecer hoy con honestidad?"
+  },
+  {
+    "id": 24,
+    "name": "Tres de Copas",
+    "nameEn": "Tres of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 3,
+    "keywords": [
+      "Expansión",
+      "Comunidad",
+      "Crecimiento inicial"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Tres (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Las primeras manifestaciones se hacen visibles y la energía se multiplica. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Comparte tus avances y celebra con quienes apoyan tu crecimiento.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Comparte tus avances y celebra con quienes apoyan tu crecimiento."
+    },
+    "reversed": {
+      "general": "Pequeñas discrepancias en el grupo que requieren empatía. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Alinea expectativas mediante una conversación pausada."
+    },
+    "reflectionQuestion": "¿Con quiénes puedes colaborar para enriquecer tu camino?"
+  },
+  {
+    "id": 25,
+    "name": "Cuatro de Copas",
+    "nameEn": "Cuatro of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 4,
+    "keywords": [
+      "Estabilidad",
+      "Consolidación",
+      "Seguridad"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Cuatro (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Bases firmes que brindan protección y tranquilidad. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Agradece la estabilidad lograda y descansa en tu estructura.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Agradece la estabilidad lograda y descansa en tu estructura."
+    },
+    "reversed": {
+      "general": "Zona de confort que comienza a sentirse como una jaula sutil. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Abre una ventana a la espontaneidad sin descuidar tu seguridad."
+    },
+    "reflectionQuestion": "¿Qué cimientos te brindan la seguridad necesaria para explorar?"
+  },
+  {
+    "id": 26,
+    "name": "Cinco de Copas",
+    "nameEn": "Cinco of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 5,
+    "keywords": [
+      "Reto",
+      "Aprendizaje",
+      "Punto de inflexión"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Cinco (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Aparece un desafío que pone a prueba tu resiliencia y te invita a madurar. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Mira el reto como un maestro que te enseña a afinar tu postura.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Mira el reto como un maestro que te enseña a afinar tu postura."
+    },
+    "reversed": {
+      "general": "Desgaste por luchar en batallas que no te corresponden. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Elige tus batallas con sabiduría y preserva tu energía."
+    },
+    "reflectionQuestion": "¿Qué lección valiosa te está enseñando este reto actual?"
+  },
+  {
+    "id": 27,
+    "name": "Seis de Copas",
+    "nameEn": "Seis of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 6,
+    "keywords": [
+      "Armonía recuperada",
+      "Reciprocidad",
+      "Transición serena"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Seis (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Las aguas se calman; recibes apoyo y recuperas la confianza. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Da y recibe en igual medida; permite que otros te ayuden.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Da y recibe en igual medida; permite que otros te ayuden."
+    },
+    "reversed": {
+      "general": "Quedarte anclado en cómo eran las cosas en lugar de vivirlas hoy. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Agradece el recuerdo pero camina con los pies en el presente."
+    },
+    "reflectionQuestion": "¿De qué manera puedes ofrecer hoy un gesto generoso a tu entorno?"
+  },
+  {
+    "id": 28,
+    "name": "Siete de Copas",
+    "nameEn": "Siete of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 7,
+    "keywords": [
+      "Evaluación",
+      "Estrategia",
+      "Perseverancia"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Siete (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Pausa para evaluar si tus métodos siguen alineados con tus metas. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. No te apresures a cosechar antes de que el fruto madure.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "No te apresures a cosechar antes de que el fruto madure."
+    },
+    "reversed": {
+      "general": "Frustración por no ver resultados inmediatos a tus esfuerzos. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Confía en los tiempos invisibles de la siembra."
+    },
+    "reflectionQuestion": "¿Qué ajuste estratégico te permitiría cuidar mejor tu tiempo?"
+  },
+  {
+    "id": 29,
+    "name": "Ocho de Copas",
+    "nameEn": "Ocho of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 8,
+    "keywords": [
+      "Maestría",
+      "Dedicación",
+      "Movimiento enfocado"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Ocho (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Compromiso diario con lo que amas; el progreso se vuelve palpable. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Disfruta del proceso de pulir tus habilidades con paciencia.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Disfruta del proceso de pulir tus habilidades con paciencia."
+    },
+    "reversed": {
+      "general": "Perfeccionismo que te roba la alegría del aprendizaje. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Permítete crear sin buscar la perfección absoluta."
+    },
+    "reflectionQuestion": "¿Qué práctica diaria te acerca más a tu maestría interior?"
+  },
+  {
+    "id": 30,
+    "name": "Nueve de Copas",
+    "nameEn": "Nueve of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 9,
+    "keywords": [
+      "Culminación",
+      "Resiliencia",
+      "Satisfacción"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Nueve (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Estás a un paso de la meta; contempla con gratitud tu fortaleza. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Mantén la calma y el aliento final; has superado lo más difícil.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Mantén la calma y el aliento final; has superado lo más difícil."
+    },
+    "reversed": {
+      "general": "Estar a la defensiva por heridas pasadas que ya no están aquí. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Baja las defensas en los espacios seguros y respira hondo."
+    },
+    "reflectionQuestion": "¿Qué logro personal merece hoy tu reconocimiento y respeto?"
+  },
+  {
+    "id": 31,
+    "name": "Diez de Copas",
+    "nameEn": "Diez of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 10,
+    "keywords": [
+      "Plenitud",
+      "Fin de ciclo",
+      "Legado"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Diez (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Completitud de una etapa; cosecha abundante y visión compartida. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Saborea la satisfacción de haber completado este tramo del camino.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Saborea la satisfacción de haber completado este tramo del camino."
+    },
+    "reversed": {
+      "general": "Cargar con responsabilidades ajenas que no te corresponden. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Aprende a delegar y suelta lo que ya cumplió su función."
+    },
+    "reflectionQuestion": "¿Qué estás listo para completar con honra y gratitud?"
+  },
+  {
+    "id": 32,
+    "name": "Sota de Copas",
+    "nameEn": "Sota of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 11,
+    "keywords": [
+      "Curiosidad",
+      "Mensaje inspirador",
+      "Mente de aprendiz"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Sota (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Una actitud fresca y receptiva abre puertas insospechadas. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Aprende con entusiasmo infantil y haz preguntas sinceras.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Aprende con entusiasmo infantil y haz preguntas sinceras."
+    },
+    "reversed": {
+      "general": "Dificultad para mantener el enfoque en una sola tarea. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Aterriza tus ideas escribiéndolas y dando un paso a la vez."
+    },
+    "reflectionQuestion": "¿Qué tema o experiencia te despierta genuina curiosidad hoy?"
+  },
+  {
+    "id": 33,
+    "name": "Caballero de Copas",
+    "nameEn": "Caballero of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 12,
+    "keywords": [
+      "Acción audaz",
+      "Impulso",
+      "Búsqueda activa"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Caballero (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Energía en marcha para defender tus ideales y alcanzar tus metas. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Acompaña tu entusiasmo con prudencia para que la carrera sea duradera.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Acompaña tu entusiasmo con prudencia para que la carrera sea duradera."
+    },
+    "reversed": {
+      "general": "Prisa excesiva que puede provocar tropiezos innecesarios. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Asegúrate de que tu prisa no atropelle tus necesidades básicas."
+    },
+    "reflectionQuestion": "¿Qué causa o proyecto merece hoy tu valentía y dedicación?"
+  },
+  {
+    "id": 34,
+    "name": "Reina de Copas",
+    "nameEn": "Reina of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 13,
+    "keywords": [
+      "Madurez interior",
+      "Comprensión profunda",
+      "Gracia"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Reina (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Dominio sereno de tu elemento; guías con el ejemplo y la calidez. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Confía en tu autoridad natural basada en la experiencia y la empatía.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Confía en tu autoridad natural basada en la experiencia y la empatía."
+    },
+    "reversed": {
+      "general": "Dudar de tu propio valor o cerrarte por miedo al juicio ajeno. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Reconecta con tu poder sereno sin necesidad de demostrar nada a nadie."
+    },
+    "reflectionQuestion": "¿Cómo puedes liderar tu vida hoy desde la compasión y la firmeza?"
+  },
+  {
+    "id": 35,
+    "name": "Rey de Copas",
+    "nameEn": "Rey of copas",
+    "arcana": "minor",
+    "suit": "copas",
+    "number": 14,
+    "keywords": [
+      "Sabiduría consolidada",
+      "Estabilidad amplia",
+      "Generosidad"
+    ],
+    "element": "Agua",
+    "astrologyRef": "Rey (Agua)",
+    "iconName": "HeartHandshake",
+    "upright": {
+      "general": "Capacidad de gobernar tu mundo interno con templanza, justicia y visión. En el ámbito de copas, resalta emociones, afecto, intuición y empatía.",
+      "love": "Conexión emocional profunda y diálogo afectivo honesto. Usa tu influencia para crear bienestar tanto para ti como para quienes te rodean.",
+      "work": "Inspiración empática y relaciones de trabajo armoniosas.",
+      "advice": "Usa tu influencia para crear bienestar tanto para ti como para quienes te rodean."
+    },
+    "reversed": {
+      "general": "Rigidez en los principios que desconecta del sentir del momento. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Flexibiliza tu perspectiva y escucha con el corazón abierto."
+    },
+    "reflectionQuestion": "¿Qué decisión tomada desde tu madurez más profunda resolvería esta situación?"
+  },
+  {
+    "id": 36,
+    "name": "As de Oros",
+    "nameEn": "As of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 1,
+    "keywords": [
+      "Semilla",
+      "Potencial puro",
+      "Nuevo inicio"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "As (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Surge una chispa inicial llena de posibilidades vírgenes. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Da el primer paso sin esperar tener todas las respuestas resueltas."
+    },
+    "reversed": {
+      "general": "El impulso existe pero necesita un canal más claro para no dispersarse. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Clarifica tus motivaciones antes de actuar con precipitación."
+    },
+    "reflectionQuestion": "¿Qué nueva oportunidad en esta área de tu vida está esperando tu sí?"
+  },
+  {
+    "id": 37,
+    "name": "Dos de Oros",
+    "nameEn": "Dos of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 2,
+    "keywords": [
+      "Dualidad",
+      "Equilibrio",
+      "Elección"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Dos (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Momento de armonizar dos polos o sopesar una decisión constructiva. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Encuentra el punto medio donde ambas opciones puedan coexistir."
+    },
+    "reversed": {
+      "general": "Tensión entre dos alternativas que resta energía a tu día a día. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Prioriza lo que te traiga paz mental a largo plazo."
+    },
+    "reflectionQuestion": "¿Qué equilibrio necesitas restablecer hoy con honestidad?"
+  },
+  {
+    "id": 38,
+    "name": "Tres de Oros",
+    "nameEn": "Tres of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 3,
+    "keywords": [
+      "Expansión",
+      "Comunidad",
+      "Crecimiento inicial"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Tres (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Las primeras manifestaciones se hacen visibles y la energía se multiplica. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Comparte tus avances y celebra con quienes apoyan tu crecimiento."
+    },
+    "reversed": {
+      "general": "Pequeñas discrepancias en el grupo que requieren empatía. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Alinea expectativas mediante una conversación pausada."
+    },
+    "reflectionQuestion": "¿Con quiénes puedes colaborar para enriquecer tu camino?"
+  },
+  {
+    "id": 39,
+    "name": "Cuatro de Oros",
+    "nameEn": "Cuatro of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 4,
+    "keywords": [
+      "Estabilidad",
+      "Consolidación",
+      "Seguridad"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Cuatro (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Bases firmes que brindan protección y tranquilidad. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Agradece la estabilidad lograda y descansa en tu estructura."
+    },
+    "reversed": {
+      "general": "Zona de confort que comienza a sentirse como una jaula sutil. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Abre una ventana a la espontaneidad sin descuidar tu seguridad."
+    },
+    "reflectionQuestion": "¿Qué cimientos te brindan la seguridad necesaria para explorar?"
+  },
+  {
+    "id": 40,
+    "name": "Cinco de Oros",
+    "nameEn": "Cinco of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 5,
+    "keywords": [
+      "Reto",
+      "Aprendizaje",
+      "Punto de inflexión"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Cinco (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Aparece un desafío que pone a prueba tu resiliencia y te invita a madurar. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Mira el reto como un maestro que te enseña a afinar tu postura."
+    },
+    "reversed": {
+      "general": "Desgaste por luchar en batallas que no te corresponden. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Elige tus batallas con sabiduría y preserva tu energía."
+    },
+    "reflectionQuestion": "¿Qué lección valiosa te está enseñando este reto actual?"
+  },
+  {
+    "id": 41,
+    "name": "Seis de Oros",
+    "nameEn": "Seis of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 6,
+    "keywords": [
+      "Armonía recuperada",
+      "Reciprocidad",
+      "Transición serena"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Seis (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Las aguas se calman; recibes apoyo y recuperas la confianza. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Da y recibe en igual medida; permite que otros te ayuden."
+    },
+    "reversed": {
+      "general": "Quedarte anclado en cómo eran las cosas en lugar de vivirlas hoy. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Agradece el recuerdo pero camina con los pies en el presente."
+    },
+    "reflectionQuestion": "¿De qué manera puedes ofrecer hoy un gesto generoso a tu entorno?"
+  },
+  {
+    "id": 42,
+    "name": "Siete de Oros",
+    "nameEn": "Siete of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 7,
+    "keywords": [
+      "Evaluación",
+      "Estrategia",
+      "Perseverancia"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Siete (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Pausa para evaluar si tus métodos siguen alineados con tus metas. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "No te apresures a cosechar antes de que el fruto madure."
+    },
+    "reversed": {
+      "general": "Frustración por no ver resultados inmediatos a tus esfuerzos. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Confía en los tiempos invisibles de la siembra."
+    },
+    "reflectionQuestion": "¿Qué ajuste estratégico te permitiría cuidar mejor tu tiempo?"
+  },
+  {
+    "id": 43,
+    "name": "Ocho de Oros",
+    "nameEn": "Ocho of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 8,
+    "keywords": [
+      "Maestría",
+      "Dedicación",
+      "Movimiento enfocado"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Ocho (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Compromiso diario con lo que amas; el progreso se vuelve palpable. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Disfruta del proceso de pulir tus habilidades con paciencia."
+    },
+    "reversed": {
+      "general": "Perfeccionismo que te roba la alegría del aprendizaje. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Permítete crear sin buscar la perfección absoluta."
+    },
+    "reflectionQuestion": "¿Qué práctica diaria te acerca más a tu maestría interior?"
+  },
+  {
+    "id": 44,
+    "name": "Nueve de Oros",
+    "nameEn": "Nueve of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 9,
+    "keywords": [
+      "Culminación",
+      "Resiliencia",
+      "Satisfacción"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Nueve (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Estás a un paso de la meta; contempla con gratitud tu fortaleza. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Mantén la calma y el aliento final; has superado lo más difícil."
+    },
+    "reversed": {
+      "general": "Estar a la defensiva por heridas pasadas que ya no están aquí. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Baja las defensas en los espacios seguros y respira hondo."
+    },
+    "reflectionQuestion": "¿Qué logro personal merece hoy tu reconocimiento y respeto?"
+  },
+  {
+    "id": 45,
+    "name": "Diez de Oros",
+    "nameEn": "Diez of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 10,
+    "keywords": [
+      "Plenitud",
+      "Fin de ciclo",
+      "Legado"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Diez (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Completitud de una etapa; cosecha abundante y visión compartida. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Saborea la satisfacción de haber completado este tramo del camino."
+    },
+    "reversed": {
+      "general": "Cargar con responsabilidades ajenas que no te corresponden. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Aprende a delegar y suelta lo que ya cumplió su función."
+    },
+    "reflectionQuestion": "¿Qué estás listo para completar con honra y gratitud?"
+  },
+  {
+    "id": 46,
+    "name": "Sota de Oros",
+    "nameEn": "Sota of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 11,
+    "keywords": [
+      "Curiosidad",
+      "Mensaje inspirador",
+      "Mente de aprendiz"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Sota (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Una actitud fresca y receptiva abre puertas insospechadas. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Aprende con entusiasmo infantil y haz preguntas sinceras."
+    },
+    "reversed": {
+      "general": "Dificultad para mantener el enfoque en una sola tarea. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Aterriza tus ideas escribiéndolas y dando un paso a la vez."
+    },
+    "reflectionQuestion": "¿Qué tema o experiencia te despierta genuina curiosidad hoy?"
+  },
+  {
+    "id": 47,
+    "name": "Caballero de Oros",
+    "nameEn": "Caballero of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 12,
+    "keywords": [
+      "Acción audaz",
+      "Impulso",
+      "Búsqueda activa"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Caballero (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Energía en marcha para defender tus ideales y alcanzar tus metas. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Acompaña tu entusiasmo con prudencia para que la carrera sea duradera."
+    },
+    "reversed": {
+      "general": "Prisa excesiva que puede provocar tropiezos innecesarios. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Asegúrate de que tu prisa no atropelle tus necesidades básicas."
+    },
+    "reflectionQuestion": "¿Qué causa o proyecto merece hoy tu valentía y dedicación?"
+  },
+  {
+    "id": 48,
+    "name": "Reina de Oros",
+    "nameEn": "Reina of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 13,
+    "keywords": [
+      "Madurez interior",
+      "Comprensión profunda",
+      "Gracia"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Reina (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Dominio sereno de tu elemento; guías con el ejemplo y la calidez. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Confía en tu autoridad natural basada en la experiencia y la empatía."
+    },
+    "reversed": {
+      "general": "Dudar de tu propio valor o cerrarte por miedo al juicio ajeno. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Reconecta con tu poder sereno sin necesidad de demostrar nada a nadie."
+    },
+    "reflectionQuestion": "¿Cómo puedes liderar tu vida hoy desde la compasión y la firmeza?"
+  },
+  {
+    "id": 49,
+    "name": "Rey de Oros",
+    "nameEn": "Rey of oros",
+    "arcana": "minor",
+    "suit": "oros",
+    "number": 14,
+    "keywords": [
+      "Sabiduría consolidada",
+      "Estabilidad amplia",
+      "Generosidad"
+    ],
+    "element": "Tierra",
+    "astrologyRef": "Rey (Tierra)",
+    "iconName": "Coins",
+    "upright": {
+      "general": "Capacidad de gobernar tu mundo interno con templanza, justicia y visión. En el ámbito de oros, resalta mundo material, cuerpo, recursos, estabilidad y proyectos.",
+      "love": "Estabilidad tangible, gestos prácticos de cuidado y lealtad.",
+      "work": "Resultados concretos, orden financiero y crecimiento profesional seguro.",
+      "advice": "Usa tu influencia para crear bienestar tanto para ti como para quienes te rodean."
+    },
+    "reversed": {
+      "general": "Rigidez en los principios que desconecta del sentir del momento. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Flexibiliza tu perspectiva y escucha con el corazón abierto."
+    },
+    "reflectionQuestion": "¿Qué decisión tomada desde tu madurez más profunda resolvería esta situación?"
+  },
+  {
+    "id": 50,
+    "name": "As de Espadas",
+    "nameEn": "As of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 1,
+    "keywords": [
+      "Semilla",
+      "Potencial puro",
+      "Nuevo inicio"
+    ],
+    "element": "Aire",
+    "astrologyRef": "As (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Surge una chispa inicial llena de posibilidades vírgenes. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Da el primer paso sin esperar tener todas las respuestas resueltas."
+    },
+    "reversed": {
+      "general": "El impulso existe pero necesita un canal más claro para no dispersarse. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Clarifica tus motivaciones antes de actuar con precipitación."
+    },
+    "reflectionQuestion": "¿Qué nueva oportunidad en esta área de tu vida está esperando tu sí?"
+  },
+  {
+    "id": 51,
+    "name": "Dos de Espadas",
+    "nameEn": "Dos of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 2,
+    "keywords": [
+      "Dualidad",
+      "Equilibrio",
+      "Elección"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Dos (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Momento de armonizar dos polos o sopesar una decisión constructiva. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Encuentra el punto medio donde ambas opciones puedan coexistir."
+    },
+    "reversed": {
+      "general": "Tensión entre dos alternativas que resta energía a tu día a día. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Prioriza lo que te traiga paz mental a largo plazo."
+    },
+    "reflectionQuestion": "¿Qué equilibrio necesitas restablecer hoy con honestidad?"
+  },
+  {
+    "id": 52,
+    "name": "Tres de Espadas",
+    "nameEn": "Tres of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 3,
+    "keywords": [
+      "Expansión",
+      "Comunidad",
+      "Crecimiento inicial"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Tres (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Las primeras manifestaciones se hacen visibles y la energía se multiplica. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Comparte tus avances y celebra con quienes apoyan tu crecimiento."
+    },
+    "reversed": {
+      "general": "Pequeñas discrepancias en el grupo que requieren empatía. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Alinea expectativas mediante una conversación pausada."
+    },
+    "reflectionQuestion": "¿Con quiénes puedes colaborar para enriquecer tu camino?"
+  },
+  {
+    "id": 53,
+    "name": "Cuatro de Espadas",
+    "nameEn": "Cuatro of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 4,
+    "keywords": [
+      "Estabilidad",
+      "Consolidación",
+      "Seguridad"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Cuatro (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Bases firmes que brindan protección y tranquilidad. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Agradece la estabilidad lograda y descansa en tu estructura."
+    },
+    "reversed": {
+      "general": "Zona de confort que comienza a sentirse como una jaula sutil. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Abre una ventana a la espontaneidad sin descuidar tu seguridad."
+    },
+    "reflectionQuestion": "¿Qué cimientos te brindan la seguridad necesaria para explorar?"
+  },
+  {
+    "id": 54,
+    "name": "Cinco de Espadas",
+    "nameEn": "Cinco of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 5,
+    "keywords": [
+      "Reto",
+      "Aprendizaje",
+      "Punto de inflexión"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Cinco (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Aparece un desafío que pone a prueba tu resiliencia y te invita a madurar. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Mira el reto como un maestro que te enseña a afinar tu postura."
+    },
+    "reversed": {
+      "general": "Desgaste por luchar en batallas que no te corresponden. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Elige tus batallas con sabiduría y preserva tu energía."
+    },
+    "reflectionQuestion": "¿Qué lección valiosa te está enseñando este reto actual?"
+  },
+  {
+    "id": 55,
+    "name": "Seis de Espadas",
+    "nameEn": "Seis of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 6,
+    "keywords": [
+      "Armonía recuperada",
+      "Reciprocidad",
+      "Transición serena"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Seis (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Las aguas se calman; recibes apoyo y recuperas la confianza. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Da y recibe en igual medida; permite que otros te ayuden."
+    },
+    "reversed": {
+      "general": "Quedarte anclado en cómo eran las cosas en lugar de vivirlas hoy. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Agradece el recuerdo pero camina con los pies en el presente."
+    },
+    "reflectionQuestion": "¿De qué manera puedes ofrecer hoy un gesto generoso a tu entorno?"
+  },
+  {
+    "id": 56,
+    "name": "Siete de Espadas",
+    "nameEn": "Siete of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 7,
+    "keywords": [
+      "Evaluación",
+      "Estrategia",
+      "Perseverancia"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Siete (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Pausa para evaluar si tus métodos siguen alineados con tus metas. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "No te apresures a cosechar antes de que el fruto madure."
+    },
+    "reversed": {
+      "general": "Frustración por no ver resultados inmediatos a tus esfuerzos. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Confía en los tiempos invisibles de la siembra."
+    },
+    "reflectionQuestion": "¿Qué ajuste estratégico te permitiría cuidar mejor tu tiempo?"
+  },
+  {
+    "id": 57,
+    "name": "Ocho de Espadas",
+    "nameEn": "Ocho of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 8,
+    "keywords": [
+      "Maestría",
+      "Dedicación",
+      "Movimiento enfocado"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Ocho (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Compromiso diario con lo que amas; el progreso se vuelve palpable. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Disfruta del proceso de pulir tus habilidades con paciencia."
+    },
+    "reversed": {
+      "general": "Perfeccionismo que te roba la alegría del aprendizaje. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Permítete crear sin buscar la perfección absoluta."
+    },
+    "reflectionQuestion": "¿Qué práctica diaria te acerca más a tu maestría interior?"
+  },
+  {
+    "id": 58,
+    "name": "Nueve de Espadas",
+    "nameEn": "Nueve of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 9,
+    "keywords": [
+      "Culminación",
+      "Resiliencia",
+      "Satisfacción"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Nueve (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Estás a un paso de la meta; contempla con gratitud tu fortaleza. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Mantén la calma y el aliento final; has superado lo más difícil."
+    },
+    "reversed": {
+      "general": "Estar a la defensiva por heridas pasadas que ya no están aquí. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Baja las defensas en los espacios seguros y respira hondo."
+    },
+    "reflectionQuestion": "¿Qué logro personal merece hoy tu reconocimiento y respeto?"
+  },
+  {
+    "id": 59,
+    "name": "Diez de Espadas",
+    "nameEn": "Diez of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 10,
+    "keywords": [
+      "Plenitud",
+      "Fin de ciclo",
+      "Legado"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Diez (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Completitud de una etapa; cosecha abundante y visión compartida. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Saborea la satisfacción de haber completado este tramo del camino."
+    },
+    "reversed": {
+      "general": "Cargar con responsabilidades ajenas que no te corresponden. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Aprende a delegar y suelta lo que ya cumplió su función."
+    },
+    "reflectionQuestion": "¿Qué estás listo para completar con honra y gratitud?"
+  },
+  {
+    "id": 60,
+    "name": "Sota de Espadas",
+    "nameEn": "Sota of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 11,
+    "keywords": [
+      "Curiosidad",
+      "Mensaje inspirador",
+      "Mente de aprendiz"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Sota (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Una actitud fresca y receptiva abre puertas insospechadas. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Aprende con entusiasmo infantil y haz preguntas sinceras."
+    },
+    "reversed": {
+      "general": "Dificultad para mantener el enfoque en una sola tarea. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Aterriza tus ideas escribiéndolas y dando un paso a la vez."
+    },
+    "reflectionQuestion": "¿Qué tema o experiencia te despierta genuina curiosidad hoy?"
+  },
+  {
+    "id": 61,
+    "name": "Caballero de Espadas",
+    "nameEn": "Caballero of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 12,
+    "keywords": [
+      "Acción audaz",
+      "Impulso",
+      "Búsqueda activa"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Caballero (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Energía en marcha para defender tus ideales y alcanzar tus metas. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Acompaña tu entusiasmo con prudencia para que la carrera sea duradera."
+    },
+    "reversed": {
+      "general": "Prisa excesiva que puede provocar tropiezos innecesarios. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Asegúrate de que tu prisa no atropelle tus necesidades básicas."
+    },
+    "reflectionQuestion": "¿Qué causa o proyecto merece hoy tu valentía y dedicación?"
+  },
+  {
+    "id": 62,
+    "name": "Reina de Espadas",
+    "nameEn": "Reina of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 13,
+    "keywords": [
+      "Madurez interior",
+      "Comprensión profunda",
+      "Gracia"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Reina (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Dominio sereno de tu elemento; guías con el ejemplo y la calidez. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Confía en tu autoridad natural basada en la experiencia y la empatía."
+    },
+    "reversed": {
+      "general": "Dudar de tu propio valor o cerrarte por miedo al juicio ajeno. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Reconecta con tu poder sereno sin necesidad de demostrar nada a nadie."
+    },
+    "reflectionQuestion": "¿Cómo puedes liderar tu vida hoy desde la compasión y la firmeza?"
+  },
+  {
+    "id": 63,
+    "name": "Rey de Espadas",
+    "nameEn": "Rey of espadas",
+    "arcana": "minor",
+    "suit": "espadas",
+    "number": 14,
+    "keywords": [
+      "Sabiduría consolidada",
+      "Estabilidad amplia",
+      "Generosidad"
+    ],
+    "element": "Aire",
+    "astrologyRef": "Rey (Aire)",
+    "iconName": "Brain",
+    "upright": {
+      "general": "Capacidad de gobernar tu mundo interno con templanza, justicia y visión. En el ámbito de espadas, resalta pensamiento, claridad mental, verdad, decisiones y comunicación.",
+      "love": "Conversaciones que aclaran malentendidos y establecen acuerdos sanos.",
+      "work": "Estrategia brillante, agudeza intelectual y toma de decisiones objetiva.",
+      "advice": "Usa tu influencia para crear bienestar tanto para ti como para quienes te rodean."
+    },
+    "reversed": {
+      "general": "Rigidez en los principios que desconecta del sentir del momento. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Flexibiliza tu perspectiva y escucha con el corazón abierto."
+    },
+    "reflectionQuestion": "¿Qué decisión tomada desde tu madurez más profunda resolvería esta situación?"
+  },
+  {
+    "id": 64,
+    "name": "As de Bastos",
+    "nameEn": "As of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 1,
+    "keywords": [
+      "Semilla",
+      "Potencial puro",
+      "Nuevo inicio"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "As (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Surge una chispa inicial llena de posibilidades vírgenes. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Da el primer paso sin esperar tener todas las respuestas resueltas."
+    },
+    "reversed": {
+      "general": "El impulso existe pero necesita un canal más claro para no dispersarse. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Clarifica tus motivaciones antes de actuar con precipitación."
+    },
+    "reflectionQuestion": "¿Qué nueva oportunidad en esta área de tu vida está esperando tu sí?"
+  },
+  {
+    "id": 65,
+    "name": "Dos de Bastos",
+    "nameEn": "Dos of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 2,
+    "keywords": [
+      "Dualidad",
+      "Equilibrio",
+      "Elección"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Dos (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Momento de armonizar dos polos o sopesar una decisión constructiva. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Encuentra el punto medio donde ambas opciones puedan coexistir."
+    },
+    "reversed": {
+      "general": "Tensión entre dos alternativas que resta energía a tu día a día. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Prioriza lo que te traiga paz mental a largo plazo."
+    },
+    "reflectionQuestion": "¿Qué equilibrio necesitas restablecer hoy con honestidad?"
+  },
+  {
+    "id": 66,
+    "name": "Tres de Bastos",
+    "nameEn": "Tres of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 3,
+    "keywords": [
+      "Expansión",
+      "Comunidad",
+      "Crecimiento inicial"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Tres (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Las primeras manifestaciones se hacen visibles y la energía se multiplica. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Comparte tus avances y celebra con quienes apoyan tu crecimiento."
+    },
+    "reversed": {
+      "general": "Pequeñas discrepancias en el grupo que requieren empatía. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Alinea expectativas mediante una conversación pausada."
+    },
+    "reflectionQuestion": "¿Con quiénes puedes colaborar para enriquecer tu camino?"
+  },
+  {
+    "id": 67,
+    "name": "Cuatro de Bastos",
+    "nameEn": "Cuatro of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 4,
+    "keywords": [
+      "Estabilidad",
+      "Consolidación",
+      "Seguridad"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Cuatro (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Bases firmes que brindan protección y tranquilidad. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Agradece la estabilidad lograda y descansa en tu estructura."
+    },
+    "reversed": {
+      "general": "Zona de confort que comienza a sentirse como una jaula sutil. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Abre una ventana a la espontaneidad sin descuidar tu seguridad."
+    },
+    "reflectionQuestion": "¿Qué cimientos te brindan la seguridad necesaria para explorar?"
+  },
+  {
+    "id": 68,
+    "name": "Cinco de Bastos",
+    "nameEn": "Cinco of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 5,
+    "keywords": [
+      "Reto",
+      "Aprendizaje",
+      "Punto de inflexión"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Cinco (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Aparece un desafío que pone a prueba tu resiliencia y te invita a madurar. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Mira el reto como un maestro que te enseña a afinar tu postura."
+    },
+    "reversed": {
+      "general": "Desgaste por luchar en batallas que no te corresponden. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Elige tus batallas con sabiduría y preserva tu energía."
+    },
+    "reflectionQuestion": "¿Qué lección valiosa te está enseñando este reto actual?"
+  },
+  {
+    "id": 69,
+    "name": "Seis de Bastos",
+    "nameEn": "Seis of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 6,
+    "keywords": [
+      "Armonía recuperada",
+      "Reciprocidad",
+      "Transición serena"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Seis (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Las aguas se calman; recibes apoyo y recuperas la confianza. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Da y recibe en igual medida; permite que otros te ayuden."
+    },
+    "reversed": {
+      "general": "Quedarte anclado en cómo eran las cosas en lugar de vivirlas hoy. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Agradece el recuerdo pero camina con los pies en el presente."
+    },
+    "reflectionQuestion": "¿De qué manera puedes ofrecer hoy un gesto generoso a tu entorno?"
+  },
+  {
+    "id": 70,
+    "name": "Siete de Bastos",
+    "nameEn": "Siete of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 7,
+    "keywords": [
+      "Evaluación",
+      "Estrategia",
+      "Perseverancia"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Siete (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Pausa para evaluar si tus métodos siguen alineados con tus metas. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "No te apresures a cosechar antes de que el fruto madure."
+    },
+    "reversed": {
+      "general": "Frustración por no ver resultados inmediatos a tus esfuerzos. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Confía en los tiempos invisibles de la siembra."
+    },
+    "reflectionQuestion": "¿Qué ajuste estratégico te permitiría cuidar mejor tu tiempo?"
+  },
+  {
+    "id": 71,
+    "name": "Ocho de Bastos",
+    "nameEn": "Ocho of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 8,
+    "keywords": [
+      "Maestría",
+      "Dedicación",
+      "Movimiento enfocado"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Ocho (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Compromiso diario con lo que amas; el progreso se vuelve palpable. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Disfruta del proceso de pulir tus habilidades con paciencia."
+    },
+    "reversed": {
+      "general": "Perfeccionismo que te roba la alegría del aprendizaje. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Permítete crear sin buscar la perfección absoluta."
+    },
+    "reflectionQuestion": "¿Qué práctica diaria te acerca más a tu maestría interior?"
+  },
+  {
+    "id": 72,
+    "name": "Nueve de Bastos",
+    "nameEn": "Nueve of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 9,
+    "keywords": [
+      "Culminación",
+      "Resiliencia",
+      "Satisfacción"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Nueve (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Estás a un paso de la meta; contempla con gratitud tu fortaleza. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Mantén la calma y el aliento final; has superado lo más difícil."
+    },
+    "reversed": {
+      "general": "Estar a la defensiva por heridas pasadas que ya no están aquí. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Baja las defensas en los espacios seguros y respira hondo."
+    },
+    "reflectionQuestion": "¿Qué logro personal merece hoy tu reconocimiento y respeto?"
+  },
+  {
+    "id": 73,
+    "name": "Diez de Bastos",
+    "nameEn": "Diez of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 10,
+    "keywords": [
+      "Plenitud",
+      "Fin de ciclo",
+      "Legado"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Diez (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Completitud de una etapa; cosecha abundante y visión compartida. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Saborea la satisfacción de haber completado este tramo del camino."
+    },
+    "reversed": {
+      "general": "Cargar con responsabilidades ajenas que no te corresponden. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Aprende a delegar y suelta lo que ya cumplió su función."
+    },
+    "reflectionQuestion": "¿Qué estás listo para completar con honra y gratitud?"
+  },
+  {
+    "id": 74,
+    "name": "Sota de Bastos",
+    "nameEn": "Sota of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 11,
+    "keywords": [
+      "Curiosidad",
+      "Mensaje inspirador",
+      "Mente de aprendiz"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Sota (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Una actitud fresca y receptiva abre puertas insospechadas. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Aprende con entusiasmo infantil y haz preguntas sinceras."
+    },
+    "reversed": {
+      "general": "Dificultad para mantener el enfoque en una sola tarea. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Aterriza tus ideas escribiéndolas y dando un paso a la vez."
+    },
+    "reflectionQuestion": "¿Qué tema o experiencia te despierta genuina curiosidad hoy?"
+  },
+  {
+    "id": 75,
+    "name": "Caballero de Bastos",
+    "nameEn": "Caballero of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 12,
+    "keywords": [
+      "Acción audaz",
+      "Impulso",
+      "Búsqueda activa"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Caballero (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Energía en marcha para defender tus ideales y alcanzar tus metas. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Acompaña tu entusiasmo con prudencia para que la carrera sea duradera."
+    },
+    "reversed": {
+      "general": "Prisa excesiva que puede provocar tropiezos innecesarios. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Asegúrate de que tu prisa no atropelle tus necesidades básicas."
+    },
+    "reflectionQuestion": "¿Qué causa o proyecto merece hoy tu valentía y dedicación?"
+  },
+  {
+    "id": 76,
+    "name": "Reina de Bastos",
+    "nameEn": "Reina of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 13,
+    "keywords": [
+      "Madurez interior",
+      "Comprensión profunda",
+      "Gracia"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Reina (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Dominio sereno de tu elemento; guías con el ejemplo y la calidez. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Confía en tu autoridad natural basada en la experiencia y la empatía."
+    },
+    "reversed": {
+      "general": "Dudar de tu propio valor o cerrarte por miedo al juicio ajeno. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Reconecta con tu poder sereno sin necesidad de demostrar nada a nadie."
+    },
+    "reflectionQuestion": "¿Cómo puedes liderar tu vida hoy desde la compasión y la firmeza?"
+  },
+  {
+    "id": 77,
+    "name": "Rey de Bastos",
+    "nameEn": "Rey of bastos",
+    "arcana": "minor",
+    "suit": "bastos",
+    "number": 14,
+    "keywords": [
+      "Sabiduría consolidada",
+      "Estabilidad amplia",
+      "Generosidad"
+    ],
+    "element": "Fuego",
+    "astrologyRef": "Rey (Fuego)",
+    "iconName": "Flame",
+    "upright": {
+      "general": "Capacidad de gobernar tu mundo interno con templanza, justicia y visión. En el ámbito de bastos, resalta voluntad, creatividad, pasión, entusiasmo y acción.",
+      "love": "Pasión compartida, entusiasmo renovado y proyectos ilusionantes juntos.",
+      "work": "Creatividad enérgica, liderazgo motivador y audacia para innovar.",
+      "advice": "Usa tu influencia para crear bienestar tanto para ti como para quienes te rodean."
+    },
+    "reversed": {
+      "general": "Rigidez en los principios que desconecta del sentir del momento. Señal de reflexión sobre cómo gestionas tu energía en esta área.",
+      "advice": "Flexibiliza tu perspectiva y escucha con el corazón abierto."
+    },
+    "reflectionQuestion": "¿Qué decisión tomada desde tu madurez más profunda resolvería esta situación?"
+  }
+]

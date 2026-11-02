@@ -1,0 +1,6 @@
+{
+  "name": "CelestiaDeck",
+  "description": "Herramienta personal de introspección y autocuidado basada en Tarot determinista (78 arcanos) y Astrología Occidental 100% local y privada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
